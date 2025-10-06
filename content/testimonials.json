@@ -1,0 +1,76 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sebastián Morales",
+      "role": "Founder & CEO",
+      "company": "ISC Sneakers",
+      "content": "Juani transformó nuestra tienda online en una máquina de ventas. El chatbot con IA responde el 85% de las consultas automáticamente y los leads calificados aumentaron 120%. Increíble trabajo.",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Marc Fontanals",
+      "role": "Director de Marketing",
+      "company": "VPN Comparison Service - Andorra",
+      "content": "Trabajar con Juani desde Andorra fue impecable. Entendió perfectamente nuestras necesidades y entregó una plataforma de comparación que duplicó nuestro tráfico orgánico. Muy profesional.",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Roberto Fernández",
+      "role": "Gerente General",
+      "company": "TUTU Automotores",
+      "content": "El kiosco interactivo que desarrolló Juani cambió la experiencia en nuestro showroom. Los clientes pasan 65% más tiempo explorando vehículos y generamos 40% más consultas. Excelente inversión.",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Luciana Gómez",
+      "role": "Brand Manager",
+      "company": "Buhero Negro",
+      "content": "La ruleta interactiva de Juani fue el hit de nuestros eventos. Capturamos datos de 500+ participantes por evento de forma divertida. La app es súper fluida y el dashboard en tiempo real es genial.",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "name": "Valentina Rossi",
+      "role": "Founder",
+      "company": "Bahía Store",
+      "content": "Juani entendió perfectamente nuestra visión de moda sustentable. El ecommerce refleja nuestros valores, el sistema de wishlist funciona increíble y el ticket promedio subió 35%. Súper recomendable.",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "name": "Dr. Martín Acosta",
+      "role": "Socio Director",
+      "company": "Estudio Contable - Córdoba",
+      "content": "El sistema de clasificación de documentos con IA de Juani nos ahorró 18 horas semanales. La precisión del 97% es impresionante. Recuperamos la inversión en 4 meses. Proyecto privado pero resultados públicos.",
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "name": "Carolina Paz",
+      "role": "Gerente de Atención al Cliente",
+      "company": "Empresa de Servicios - Córdoba",
+      "content": "El chatbot que implementó Juani resuelve el 78% de nuestras consultas sin intervención humana. Pasamos de 4 horas de espera a respuesta instantánea. Nuestro equipo ahora se enfoca en casos complejos.",
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "name": "Diego Ramírez",
+      "role": "Director",
+      "company": "Agencia de Marketing Digital",
+      "content": "La automatización de reportes de Juani nos cambió la vida. De 25 horas semanales a solo 3 horas. Los reportes son más precisos, las facturas automáticas y los clientes reciben todo a tiempo. Brutal.",
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "name": "Patricia Sánchez",
+      "role": "Gerente de Operaciones",
+      "company": "Distribuidora Mayorista",
+      "content": "El sistema de inventario automatizado de Juani redujo nuestros desabastecimientos en 70% y liberó 13 horas semanales del equipo. El ML predice necesidades futuras con precisión. Inversión que se paga sola.",
+      "rating": 5
+    }
+  ]
+}

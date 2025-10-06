@@ -1,0 +1,42 @@
+{
+  "h1": "Liberá 20+ horas semanales automatizando tu negocio con IA",
+  "h2": "Automatización agéntica para ecommerce y empresas que buscan escalar sin contratar más gente",
+  "description": "",
+  "chipsFullstack": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Express",
+    "Python",
+    "Django",
+    "Rails",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Redis",
+    "Docker",
+    "Nginx",
+    "Git/GitHub"
+  ],
+  "chipsIA": [
+    "Python IA",
+    "PyTorch",
+    "TensorFlow",
+    "scikit-learn",
+    "Hugging Face",
+    "LangChain",
+    "OpenAI API",
+    "Ollama",
+    "RAG",
+    "n8n",
+    "Flowise",
+    "Weaviate",
+    "Pinecone",
+    "Jupyter",
+    "VS Code"
+  ]
+}

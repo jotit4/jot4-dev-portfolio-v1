@@ -1,0 +1,112 @@
+{
+  "services": [
+    {
+      "id": "ecommerce",
+      "title": "Desarrollo Ecommerce",
+      "description": "Plataformas de comercio electrónico escalables y optimizadas para conversión",
+      "icon": "ShoppingCart",
+      "bullets": [
+        "Integración con pasarelas de pago",
+        "Gestión de inventario en tiempo real",
+        "Optimización SEO y performance",
+        "Panel de administración completo"
+      ],
+      "faq": [
+        {
+          "question": "¿Qué plataformas utilizás?",
+          "answer": "Desarrollo soluciones custom con Next.js y también trabajo con Shopify, WooCommerce según las necesidades del proyecto."
+        }
+      ]
+    },
+    {
+      "id": "automatizacion",
+      "title": "Automatización de Procesos",
+      "description": "Flujos de trabajo automatizados que liberan horas de trabajo manual",
+      "icon": "Workflow",
+      "bullets": [
+        "Integración de APIs y servicios",
+        "Automatización de tareas repetitivas",
+        "Sincronización de datos entre plataformas",
+        "Notificaciones y alertas inteligentes"
+      ],
+      "faq": [
+        {
+          "question": "¿Qué herramientas usás?",
+          "answer": "Trabajo con n8n, Zapier, Make, y desarrollo soluciones custom según la complejidad del proyecto."
+        }
+      ]
+    },
+    {
+      "id": "ia",
+      "title": "Soluciones con IA",
+      "description": "Integración de inteligencia artificial para potenciar tu negocio",
+      "icon": "Brain",
+      "bullets": [
+        "Chatbots inteligentes con RAG",
+        "Análisis de datos con ML",
+        "Generación de contenido automatizada",
+        "Sistemas de recomendación"
+      ],
+      "faq": [
+        {
+          "question": "¿Qué modelos de IA utilizás?",
+          "answer": "Trabajo con OpenAI, Anthropic, modelos open source como Llama, y soluciones custom según el caso de uso."
+        }
+      ]
+    },
+    {
+      "id": "dashboards",
+      "title": "Dashboards & Analytics",
+      "description": "Paneles de control para visualizar y analizar datos en tiempo real",
+      "icon": "BarChart3",
+      "bullets": [
+        "Visualización de métricas clave",
+        "Reportes automatizados",
+        "Integración con múltiples fuentes de datos",
+        "Dashboards responsive y en tiempo real"
+      ],
+      "faq": [
+        {
+          "question": "¿Qué tecnologías usás?",
+          "answer": "Next.js, React, D3.js, Recharts, y bases de datos como PostgreSQL, MongoDB según el proyecto."
+        }
+      ]
+    },
+    {
+      "id": "apis",
+      "title": "Desarrollo de APIs",
+      "description": "APIs RESTful y GraphQL escalables y documentadas",
+      "icon": "Code2",
+      "bullets": [
+        "Arquitectura escalable y segura",
+        "Documentación completa",
+        "Autenticación y autorización",
+        "Rate limiting y caching"
+      ],
+      "faq": [
+        {
+          "question": "¿Qué stack utilizás?",
+          "answer": "Node.js con Express, Next.js API Routes, Python con FastAPI, según los requerimientos del proyecto."
+        }
+      ]
+    },
+    {
+      "id": "consultoria",
+      "title": "Consultoría Técnica",
+      "description": "Asesoramiento en arquitectura, stack tecnológico y mejores prácticas",
+      "icon": "Lightbulb",
+      "bullets": [
+        "Auditoría de código y arquitectura",
+        "Selección de stack tecnológico",
+        "Optimización de performance",
+        "Capacitación de equipos"
+      ],
+      "faq": [
+        {
+          "question": "¿Cómo funciona la consultoría?",
+          "answer": "Sesiones de 1-2 horas donde analizamos tu proyecto, identificamos oportunidades de mejora y definimos un plan de acción."
+        }
+      ]
+    }
+  ]
+}

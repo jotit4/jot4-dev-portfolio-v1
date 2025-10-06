@@ -1,0 +1,161 @@
+{
+  "projects": [
+    {
+      "id": "isc-sneakers",
+      "title": "ISC SNEAKERS | Zapatillas Urbanas Premium",
+      "slug": "isc-sneakers",
+      "category": "ecommerce",
+      "description": "Ecommerce de zapatillas premium con chatbot de IA integrado y automatización completa de leads",
+      "problem": "Cliente necesitaba una tienda online que no solo vendiera productos, sino que calificara leads automáticamente y respondiera consultas 24/7 sin intervención humana",
+      "solution": "Desarrollo de ecommerce completo con Next.js, integración de chatbot con IA para atención al cliente, sistema de automatización de leads que captura, califica y deriva consultas al equipo de ventas automáticamente",
+      "metrics": {
+        "automation": "85% consultas automatizadas",
+        "leads": "+120% leads calificados",
+        "response": "Respuesta instantánea 24/7"
+      },
+      "stack": ["Next.js", "TypeScript", "OpenAI", "Stripe", "Vercel", "Tailwind CSS"],
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ISC%20Sneakers-AVwu613s6x7lq358CcSAepLNzv6h0d.png",
+      "link": "https://v0-zapatillas.vercel.app/"
+    },
+    {
+      "id": "vpn-comparison",
+      "title": "VPN Comparison Service",
+      "slug": "vpn-comparison",
+      "category": "dashboards",
+      "description": "Plataforma de comparación de proveedores de VPN desarrollada para cliente de Andorra",
+      "problem": "Cliente de Andorra necesitaba una plataforma que permitiera a usuarios comparar diferentes servicios de VPN de forma clara, con métricas actualizadas y sistema de afiliación",
+      "solution": "Sitio web de comparación con tablas dinámicas, filtros avanzados, sistema de puntuación automatizado y tracking de conversiones para programa de afiliados",
+      "metrics": {
+        "comparisons": "15+ proveedores",
+        "traffic": "+200% tráfico orgánico",
+        "conversions": "12% tasa de conversión"
+      },
+      "stack": ["Next.js", "TypeScript", "PostgreSQL", "Vercel", "Tailwind CSS"],
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/VPN%20Comparison%20Service-u54xWZZnG1Ra6i3ApQSA83SsUS6fil.png",
+      "link": "https://vpncomparisonservice.vercel.app/"
+    },
+    {
+      "id": "tutu-automotores",
+      "title": "TUTU Automotores - Kiosco Interactivo",
+      "slug": "tutu-automotores",
+      "category": "dashboards",
+      "description": "Aplicación para pantalla Kiosco (Totem) de concesionaria de automotores con catálogo interactivo",
+      "problem": "Concesionaria necesitaba una solución para que clientes exploren el catálogo de vehículos de forma autónoma en showroom, sin depender de vendedores disponibles",
+      "solution": "App interactiva optimizada para pantallas táctiles tipo totem, con navegación intuitiva, filtros por categoría, galería de imágenes de alta calidad y especificaciones técnicas detalladas",
+      "metrics": {
+        "engagement": "+65% tiempo en showroom",
+        "leads": "+40% consultas generadas",
+        "satisfaction": "4.7/5 experiencia usuario"
+      },
+      "stack": ["Next.js", "TypeScript", "Framer Motion", "Vercel", "Tailwind CSS"],
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/TUTU%20Automotores-FKDbxQTTSPmkIfeVjZ9xr9dcITYIgj.png",
+      "link": "https://tutu-app-six.vercel.app/"
+    },
+    {
+      "id": "ruleta-buhero",
+      "title": "Ruleta Buhero - Participá y ganá!",
+      "slug": "ruleta-buhero",
+      "category": "dashboards",
+      "description": "Kiosco interactivo con ruleta digital para eventos de Buhero Negro, gamificación y captura de leads",
+      "problem": "Marca necesitaba una herramienta de engagement para eventos que captara datos de participantes de forma divertida y generara recordación de marca",
+      "solution": "App de ruleta interactiva para pantallas táctiles en eventos, con animaciones fluidas, sistema de premios configurable, captura de datos de participantes y dashboard de administración en tiempo real",
+      "metrics": {
+        "participation": "500+ participantes/evento",
+        "data": "95% datos capturados",
+        "engagement": "3.5 min promedio interacción"
+      },
+      "stack": ["Next.js", "TypeScript", "Framer Motion", "Vercel", "Tailwind CSS"],
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ruleta%20buhero-SLlujyPSxPU5mVodkLA4fAfH3hNzKG.png",
+      "link": "https://ruleta-stromberg-variante-jot4-projects.vercel.app/"
+    },
+    {
+      "id": "bahia-store",
+      "title": "Bahía Store - Moda Sustentable",
+      "slug": "bahia-store",
+      "category": "ecommerce",
+      "description": "Ecommerce de moda sustentable con sistema de Wishlist estilo showroom y experiencia premium",
+      "problem": "Marca de moda sustentable necesitaba una tienda online que reflejara sus valores ecológicos y ofreciera una experiencia de compra tipo showroom digital",
+      "solution": "Ecommerce con diseño minimalista y elegante, sistema de wishlist para que usuarios guarden sus favoritos, galería estilo lookbook, filtros por materiales sustentables y storytelling de cada prenda",
+      "metrics": {
+        "wishlist": "45% usuarios usan wishlist",
+        "aov": "+35% ticket promedio",
+        "return": "28% tasa de retorno"
+      },
+      "stack": ["Next.js", "TypeScript", "Stripe", "Vercel", "Tailwind CSS"],
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Bahia%20Store-Wsdy1M8zaf3uH9JhtZ0cjxuEgqgqgf.png",
+      "link": "https://bahia-st-96pb.vercel.app/"
+    },
+    {
+      "id": "clasificacion-documentos-ia",
+      "title": "Sistema de Clasificación Inteligente de Documentos",
+      "slug": "clasificacion-documentos-ia",
+      "category": "ia",
+      "description": "Proyecto privado para cliente de Córdoba, Argentina - Sistema de IA para clasificación automática de documentos contables",
+      "problem": "Estudio contable procesaba manualmente 500+ documentos diarios (facturas, recibos, contratos), requiriendo 3 empleados full-time solo para clasificación y archivo digital, con alto margen de error humano",
+      "solution": "Implementación de sistema de IA con visión computacional y NLP que clasifica automáticamente documentos por tipo, extrae datos clave (CUIT, montos, fechas), los renombra según nomenclatura del estudio y los archiva en carpetas correspondientes. Integración con sistema contable existente vía API",
+      "metrics": {
+        "time": "18 horas/semana ahorradas",
+        "accuracy": "97% precisión clasificación",
+        "roi": "ROI positivo en 4 meses"
+      },
+      "stack": ["Python", "OpenAI GPT-4 Vision", "FastAPI", "PostgreSQL", "AWS S3"],
+      "image": "/placeholder.svg?height=400&width=600",
+      "link": null,
+      "isPrivate": true,
+      "clientLocation": "Córdoba, Argentina"
+    },
+    {
+      "id": "chatbot-atencion-cliente-ia",
+      "title": "Chatbot de Atención al Cliente con IA Conversacional",
+      "slug": "chatbot-atencion-cliente-ia",
+      "category": "ia",
+      "description": "Proyecto privado para cliente de Córdoba, Argentina - Asistente virtual con IA para empresa de servicios",
+      "problem": "Empresa de servicios recibía 200+ consultas diarias por WhatsApp y email, requiriendo 2 personas dedicadas a responder preguntas frecuentes repetitivas sobre horarios, precios, disponibilidad y procesos. Tiempo de respuesta promedio: 4 horas",
+      "solution": "Desarrollo de chatbot con IA conversacional entrenado con base de conocimiento de la empresa, integrado a WhatsApp Business API y formulario web. Responde consultas frecuentes, agenda citas, deriva casos complejos a humanos con contexto completo. Dashboard de analytics y mejora continua del modelo",
+      "metrics": {
+        "automation": "78% consultas resueltas sin humano",
+        "time": "22 horas/semana ahorradas",
+        "response": "Respuesta instantánea vs 4hs"
+      },
+      "stack": ["Next.js", "OpenAI GPT-4", "LangChain", "WhatsApp Business API", "Supabase"],
+      "image": "/placeholder.svg?height=400&width=600",
+      "link": null,
+      "isPrivate": true,
+      "clientLocation": "Córdoba, Argentina"
+    },
+    {
+      "id": "automatizacion-reportes-agencia",
+      "title": "Automatización de Reportes y Facturación para Agencia",
+      "slug": "automatizacion-reportes-agencia",
+      "category": "automatizacion",
+      "description": "Sistema de automatización de procesos internos para agencia de marketing digital",
+      "problem": "Agencia con 15 clientes dedicaba 25 horas/semana a generar reportes manuales de métricas (Google Ads, Meta Ads, Analytics), consolidar datos en Excel, crear presentaciones y generar facturas. Proceso propenso a errores y retrasos en entrega",
+      "solution": "Plataforma que conecta automáticamente con APIs de Google Ads, Meta Ads y Analytics, consolida métricas en tiempo real, genera reportes PDF personalizados por cliente con gráficos y análisis, y crea facturas automáticas basadas en presupuestos acordados. Sistema de alertas para métricas fuera de rango",
+      "metrics": {
+        "time": "25 horas/semana → 3 horas/semana",
+        "errors": "95% reducción errores reportes",
+        "delivery": "Entrega puntual 100% vs 60%"
+      },
+      "stack": ["Next.js", "TypeScript", "Google APIs", "Meta API", "PostgreSQL", "Puppeteer"],
+      "image": "/placeholder.svg?height=400&width=600",
+      "link": null
+    },
+    {
+      "id": "gestion-inventario-automatizado",
+      "title": "Sistema de Gestión de Inventario Automatizado",
+      "slug": "gestion-inventario-automatizado",
+      "category": "automatizacion",
+      "description": "Automatización de control de stock y reposición para distribuidora mayorista",
+      "problem": "Distribuidora con 800+ SKUs realizaba control de inventario manual con planillas Excel, generando desabastecimientos frecuentes, sobrestock de productos de baja rotación y 15 horas/semana del equipo en tareas administrativas de conteo y pedidos a proveedores",
+      "solution": "Sistema web que sincroniza ventas en tiempo real, calcula automáticamente puntos de reorden basados en histórico de ventas y estacionalidad, genera órdenes de compra automáticas a proveedores, envía alertas de stock crítico y proyecta necesidades futuras con ML. Dashboard con métricas de rotación y rentabilidad por producto",
+      "metrics": {
+        "time": "15 horas/semana → 2 horas/semana",
+        "stockouts": "70% reducción desabastecimientos",
+        "capital": "30% reducción capital inmovilizado"
+      },
+      "stack": ["Next.js", "TypeScript", "PostgreSQL", "Python", "Scikit-learn", "Vercel"],
+      "image": "/placeholder.svg?height=400&width=600",
+      "link": null
+    }
+  ]
+}
